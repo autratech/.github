@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/autra-logo-profile-transparente.png" width="128" alt="Logo da Autra" />
+  <img src="assets/autra-logo-profile-preto.png" width="128" alt="Logo da Autra" />
 </p>
 
 <h1 align="center">Autra</h1>
