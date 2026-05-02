@@ -1,22 +1,22 @@
-# Autra GitHub organization profile
+# Perfil da organização Autra no GitHub
 
-This repository powers the Autra organization overview on GitHub.
+Este repositório alimenta a página de overview da organização Autra no GitHub.
 
-The public organization profile is rendered from:
+O perfil público da organização é renderizado a partir de:
 
 ```text
 profile/README.md
 ```
 
-Assets used by the profile live in:
+Os assets usados no perfil ficam em:
 
 ```text
 profile/assets/
 ```
 
-## Maintenance
+## Manutenção
 
-- Keep the profile concise and public-safe.
-- Do not publish secrets, customer data, internal account IDs, or private architecture details.
-- Prefer stable public links such as the Autra website and public GitHub organization URL.
-- Preview changes in a pull request before merging to the default branch.
+- Mantenha o conteúdo conciso, institucional e seguro para publicação.
+- Não publique segredos, dados de clientes, informações internas ou detalhes privados de implementação.
+- Use links públicos e estáveis, como o site `autrapay.com.br` e o perfil da organização no GitHub.
+- Pré-visualize mudanças em um pull request antes de publicar alterações relevantes.

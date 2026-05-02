@@ -1,63 +1,62 @@
 <p align="center">
-  <img src="assets/autra-logo-profile-transparente.png" width="128" alt="Autra logo" />
+  <img src="assets/autra-logo-profile-transparente.png" width="128" alt="Logo da Autra" />
 </p>
 
 <h1 align="center">Autra</h1>
 
 <p align="center">
-  Financial infrastructure for payments, banking, and automation in Brazil.
+  Plataforma financeira para vender, receber e controlar o dinheiro do seu negócio.
 </p>
 
 <p align="center">
-  <a href="https://www.autra.io">Website</a> ·
-  <a href="mailto:suporte@autra.io">Contact</a> ·
+  <a href="https://www.autrapay.com.br">Site</a> ·
+  <a href="mailto:atendimento@autrapay.com.br">Contato</a> ·
   <a href="https://github.com/autratech">GitHub</a>
 </p>
 
 ---
 
-Autra builds API-first financial infrastructure for companies that need reliable payment, banking, and operational capabilities in one platform.
+A **Autra** é uma plataforma financeira que apoia negócios de diversos segmentos, oferecendo escala, segurança e consistência operacional em todo o Brasil.
 
-We focus on secure integrations, predictable operations, and developer-friendly APIs for financial products in the Brazilian market.
+Ajudamos empresas, empreendedores e lojistas a simplificar sua operação financeira com soluções integradas para pagamentos, vendas presenciais e digitais, conta digital, cobrança e atendimento.
 
-## What we build
+## O que fazemos
 
-- Payment infrastructure for digital businesses and platforms
-- Pix, Pix Automático, boleto, and payment links
-- Card acquiring and merchant onboarding capabilities
-- Banking and account infrastructure
-- Webhooks, events, and financial operations automation
-- Multi-tenant APIs for partners, tenants, and internal operations
+- Credenciamento simples para começar a vender com menos burocracia
+- Processamento de transações com segurança e clareza na liquidação
+- Conta digital conectada à operação do negócio
+- Link de pagamento para vendas à distância
+- Tap on Phone para aceitar pagamentos por aproximação direto no celular
+- Cobrança por boleto de forma rápida e prática
+- Maquininhas integradas para diferentes tipos de operação
+- Suporte do onboarding ao dia a dia da operação
 
-## Engineering focus
+## Para quem construímos
 
-| Area | What we care about |
+Atendemos negócios de diferentes tamanhos e segmentos, incluindo:
+
+| Segmento | Como a Autra apoia |
 |---|---|
-| Platform APIs | Stable contracts, clear documentation, and simple integration paths. |
-| Payments | Reliable processing, reconciliation, lifecycle events, and operational visibility. |
-| Banking | Account, onboarding, and compliance-aware workflows for financial products. |
-| Reliability | Observable services, resilient integrations, and safe deployment practices. |
-| Security | Least privilege, tenant isolation, auditability, and secure-by-design systems. |
+| Comércio e varejo | Pagamentos presenciais e digitais integrados à operação. |
+| Serviços | Soluções para vender, receber e acompanhar transações com praticidade. |
+| Farmácias | Aceitação de pagamentos e meios relevantes para o dia a dia do negócio. |
+| Vestuário | Ferramentas para balcão, mobilidade e vendas remotas. |
+| Serviços automotivos | Pagamentos e cobrança para operações com atendimento presencial. |
+| Agências de viagem | Recebimentos com flexibilidade para diferentes jornadas de compra. |
 
-## Technology
+## Meios de pagamento
 
-Our platform is built around pragmatic, production-ready technology for financial systems:
+Com a Autra, negócios podem aceitar os principais meios de pagamento do mercado, incluindo cartões, Pix, boletos, links de pagamento e pagamentos por aproximação.
 
-- Go services and serverless workloads
-- PostgreSQL-backed financial data models
-- Event-driven processing and asynchronous workflows
-- AWS infrastructure managed with Terraform
-- GitHub Actions for CI/CD and operational automation
-- Observability, structured logs, and runbooks for production operations
+## Repositórios
 
-## Repositories
+Nosso software é fechado e a maior parte dos repositórios da Autra é privada ou interna. Repositórios públicos, quando existirem, aparecerão abaixo nesta organização.
 
-Most Autra platform repositories are private or internal. Public repositories, shared tools, and open-source projects will appear below when available.
-
-## Contact
+## Contato
 
 <p>
-  🌐 Website: <a href="https://www.autra.io">autra.io</a><br />
-  ✉️ Email: <a href="mailto:suporte@autra.io">suporte@autra.io</a><br />
+  🌐 Site: <a href="https://www.autrapay.com.br">autrapay.com.br</a><br />
+  ✉️ Email: <a href="mailto:atendimento@autrapay.com.br">atendimento@autrapay.com.br</a><br />
+  📍 Endereço: Avenida Anápolis, 100, Barueri, São Paulo — 06404-250<br />
   🐙 GitHub: <a href="https://github.com/autratech">@autratech</a>
 </p>
